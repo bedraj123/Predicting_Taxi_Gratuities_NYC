@@ -18,5 +18,6 @@ In connection to this, a feature was engineered to represent if a ride was taken
 <section>
   <h2>Modeling and Evaluation</h2>
 A random forest model comprising 100 decision trees was used to determine feature importance in who would tip generously or not. The below plot shows that trip duration, distance and the cost of a fare were the Top 3 most important factors in performed with 86% accuracy and 72% precision.
+  
   <img src="https://github.com/bedraj123/Predicting_Taxi_Gratuities_NYC/blob/main/images/Fig2.png"
 </section>
