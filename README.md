@@ -8,7 +8,7 @@ The goal of this project was to create multiple linear gegression and random for
   According to salary.com the average salary for a New York Taxi Driver is around $45,000. This salary is significantly low compared to a medium rent value of $6,500 per month. It is important to understand what factors encouage riders to leave tips in order to help drivers obtain a livable wage.
 </section>
 
-<sction>
+<section>
   <h2> Data Understanding</h2>
-  The NYC Taxi and Limousine Commision data came from <a href="url">https://www.nyc.gov/</a>. The data consisted of appromimately
-</sction>
+  The NYC Taxi and Limousine Commision data came from <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC.gov</a>. The data consisted of appromimately
+</section>
