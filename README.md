@@ -11,6 +11,5 @@ The goal of this project was to create multiple linear gegression and random for
 <section>
   <h2> Data Understanding</h2>
   The NYC Taxi and Limousine Commision data came from <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC.gov</a>. The data consisted of appromimately 408K unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non_generous tippers that exist in the data set. 
-  <img src="<img width="719" height="360" alt="image" src="https://github.com/user-attachments/assets/9e3709d6-b364-4e60-a983-24603cb2ab6a" />
-"
+  <img src="https://github.com/bedraj123/Predicting_Taxi_Gratuities_NYC/blob/main/images/Non_Generous%20vs%20Generous.png" />
 </section>
