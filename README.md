@@ -21,3 +21,6 @@ A random forest model comprising 100 decision trees was used to determine featur
   
 <img src="images/Fig2.png" width="600">
 </section>
+<section><h2>Conclusion></h2>
+This model can benefit Taxi Drivers in knowing if they will be tipped generously or no;however, running a parameter model to determine how much each variable will influence the actual price of the tip. In he future, adding more information on a rider's past tipping behaviour may also be beneficial in helping the stakeholder address their business problem.    
+</section>
